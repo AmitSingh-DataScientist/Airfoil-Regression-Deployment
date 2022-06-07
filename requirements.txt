@@ -11,5 +11,4 @@ numpy
 scipy
 sklearn
 scikit-learn
-pickle
 
